@@ -1,5 +1,5 @@
 function setup() {
-OMA 11112 Sungjiwon
+//OMA 11112
 }
 
 
