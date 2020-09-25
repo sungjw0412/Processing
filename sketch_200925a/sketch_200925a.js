@@ -1,5 +1,5 @@
 function setup() {
-//OMA 11112 sung ji won
+//OMA 11112
 }
 
 
